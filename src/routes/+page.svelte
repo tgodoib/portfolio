@@ -23,7 +23,7 @@
 	<Moon class="h-5 w-5" />
 </Button>
 
-<div class="min-h-full flex justify-center items-center">
+<div class="min-h-full flex justify-around items-center">
 	<div class="flex gap-4 flex-col h-[200vh] items-stretch md:h-fit md:flex-row">
 		<Card.Root class="w-[90vw] md:max-w-sm flex flex-col items-center">
 			<Card.Header>
