@@ -24,7 +24,7 @@
 </Button>
 
 <div class="min-h-full flex justify-around items-center">
-	<div class="flex gap-4 flex-col h-[200vh] items-stretch md:h-fit md:flex-row">
+	<div class="flex gap-4 flex-col h-[200vh] justify-around items-stretch md:h-fit md:flex-row">
 		<Card.Root class="w-[90vw] md:max-w-sm flex flex-col items-center">
 			<Card.Header>
 				<Card.Title class="text-2xl tracking-wide">Oie, sou o Tiago 😄</Card.Title>
