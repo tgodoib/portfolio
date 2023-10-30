@@ -1,12 +1,12 @@
-FROM oven/bun:slim
+FROM node:lts-slim
 
 WORKDIR /app
 
 COPY . .
 
-RUN bun install
-RUN bun run build
-RUN bun add -g serve
+RUN npm install
+RUN npm run build
+RUN npm add -g serve
 
 EXPOSE 3003
 
