@@ -9,6 +9,9 @@ export default {
 				quantico: ['Quantico', 'monospace'],
 				'space-mono': ['Space Mono', { fontFeatureSettings: '"case" 1' }]
 			}
+		},
+		screens: {
+			card: '400px'
 		}
 	},
 

@@ -17,7 +17,7 @@
 	</div>
 {/snippet}
 
-<div class="block h-fit min-w-[380px] max-w-[400px] border border-black pt-5">
+<div class="card:border block h-fit min-w-[380px] max-w-[400px] border-black pt-5">
 	<div class="flex w-full items-center justify-between gap-5 border-b border-black px-5 pb-4">
 		<img src="et.svg" alt="A green alien" />
 		<h1 class="grow font-quantico text-[20px] font-bold">TIAGO GODOI BANNWART</h1>
